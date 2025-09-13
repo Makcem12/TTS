@@ -1,4 +1,4 @@
-print(rm -rf MBR
+print('rm -rf MBR
 git clone https://github.com/Makcem12/MBR
 cd MBR
-python MBR.py)
+python MBR.py')
