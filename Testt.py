@@ -1,3 +1,1 @@
-print("git clone https://github.com/Makcem12/MBR
-cd MBR
-python MBR.py")
+print("git clone https://github.com/Makcem12/MBR\ncd MBR\npython MBR.py")
